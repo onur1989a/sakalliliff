@@ -1,2 +1,2 @@
-# sakalliliff
-liff selfbot
+# liff
+Public Liff
